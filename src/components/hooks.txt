@@ -1,0 +1,8 @@
+hooks are used for fetching data from react. or it is used to use the class data without making any class
+
+in import it is React, {useState} 
+and in the code it is 
+count[text,SetText] = useState('Enter text here '); <-----Syntax 
+
+
+
